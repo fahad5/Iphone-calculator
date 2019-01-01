@@ -1,0 +1,47 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.button {
+	-fx-font-family:"Helvetica Neue Light";
+	-fx-font-size:21px;
+	-fx-background-radius:0px;
+		-fx-background-color:#E0E0E0 ;
+		-fx-border-color:#7C7C7C;
+		-fx-border-width:0.3px;
+		
+	
+	
+}
+
+.button:pressed {
+	 -fx-background-color:#B2B2B2 ;
+}
+
+.display {
+	-fx-font-family:"Helvetica Neue";
+	-fx-font-size:46px;
+	-fx-text-fill:#FFFFFF;
+    -fx-background-color:grey ;
+	
+}
+
+.operator {
+		-fx-text-fill:#FFFFFF;
+	   -fx-background-color:#e99748;
+}
+.management {
+	-fx-background-color:#D6D6D6 ;
+}
+
+.management:pressed {
+	-fx-background-color:#B2B2B2 ;
+}
+#ac{
+		-fx-font-size:20px;
+	
+	
+}
+#plusAndMinus{
+			-fx-font-size:20px;
+	
+	
+}
